@@ -1,0 +1,22 @@
+Suppose you want to marry 1000 men and 1000 women
+Given a set of men X
+and set of women W 
+Each men ranks women, and each women ranks the men
+
+Solution:
+men propose their highest ranked women who they have not got rejected
+women accepts their highest ranked men even if they are already married to a lower ranked man
+
+Example: if Carl and David both prefer Alice to Barbara and
+Alice and Barbara both prefer Carl to David
+
+First Carl and David propose Alice(Their first preference) ,
+Alice Marry Carl(Her First preference)
+David propose Barbara(His next preference who did not reject him)
+Barbara Marry David?(Her only option)
+
+Some Applications:
+*Matching residents to Hospitals in US
+*National university entrance exam in iran
+*Placement of Canadian Lawers
+*Sorority Rush
