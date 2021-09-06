@@ -1,0 +1,13 @@
+Best Data structure for orderd groups:
+ We can use orderd array and use binary search to search array at O(log n)
+ But insertion and deletion will be slow as it pushing is needed and thus only do in linear time
+
+ Binary Search Tree is another good one
+ Searching will be at O(log n)
+ Insertion is also at O(log n)
+
+ Insertion of sorted element will make tree unbalanced
+
+ should make balance in tree by make suring left and right of node have same highest
+
+ Finding Minimun and maximum, Median , Order are easy in Binary tree
