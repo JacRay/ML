@@ -1,0 +1,9 @@
+Three possibilities of LP:
+*Infeesible:
+Constrains set has no feasible soultion
+
+*Unbounded:
+No finite optimum
+
+*Finite optimum:
+There is an optimal soultion. Thrn optimal occurs at a vertex
