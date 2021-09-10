@@ -1,4 +1,7 @@
 Simplex(1947):
 Starts at a vertex and keeps moving to better adjacent vertex until it reaches an optimum
 
-Interior point methods
+Interior point methods(1984):
+Worst case polynomiyal time, complexity in practice
+Fast commercial solvers
+Modeling languages
