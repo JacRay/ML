@@ -1,0 +1,4 @@
+Problem can be related by reduction 
+Reduction from decision problem A to problem B such that 
+every instance x of A to an instance R(x) of b and 
+yes/no answer for x in A = answer for R(x) in b.
