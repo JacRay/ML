@@ -1,0 +1,11 @@
+3*10^9 ACGTs are identical in human genome
+only 3*10^6 are different(Rare)
+Only 100 private mutatutions
+When a varient is find its more likely a common varient and less likely private mutation
+There is massive raw data in genomics:
+    Mapping many short reads to a long geenome sequence:
+        Taking short strings from different position and map it to reference
+    Finding mismatches
+        indexing every posible combination of 5 combination(Dictionary order) of TGA and indexing each position
+        help to find the match easy 
+    Topic Summary
