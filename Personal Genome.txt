@@ -9,3 +9,5 @@ There is massive raw data in genomics:
         indexing every posible combination of 5 combination(Dictionary order) of TGA and indexing each position
         help to find the match easy 
     Topic Summary
+
+Most of the DNA of a person is identical
